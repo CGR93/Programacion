@@ -1,4 +1,4 @@
-package Primeros_ejercicios;
+package Primeros_proyectos;
 
 public class Identificadores {
 
