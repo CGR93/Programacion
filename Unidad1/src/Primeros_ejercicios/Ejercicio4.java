@@ -6,7 +6,7 @@ public class Ejercicio4 {
 
 	public static void main(String[] args) {
 		// Crea un programa que pida un peso en Kilogramos y realice la conversión a onzas, sabiendo que 1 Kilogramo (Kg) = 35.2739619 Onzas (oz)
-        float peso;
+        float peso; // final float para crear una variable: final float onzas = 35.2739619f;
         double onzas;
         Scanner teclado = new Scanner(System.in); //declarar el scanner pero es necesario importarlo
         
