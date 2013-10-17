@@ -22,5 +22,4 @@ public class Ejercicio3_4 {
 		System.out.println("El area es :"+ area);
 		teclado.close(); //para finalizar el teclado y que no de aviso
 			}
-
 }
