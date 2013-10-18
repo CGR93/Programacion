@@ -19,7 +19,9 @@ public class Ejercicio3_4 {
 		altura = y2 - y1;
 		base = x2 - x1;
 		area = (altura * base);
-		System.out.println("El area es :"+ area);
+		System.out.println("El area es: "+ area);
+		System.out.println("La base es: "+ base);
+		System.out.println("El area es: "+ altura);
 		teclado.close(); //para finalizar el teclado y que no de aviso
 			}
 }
