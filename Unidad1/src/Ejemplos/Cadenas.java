@@ -1,4 +1,4 @@
-package Primeros_proyectos;
+package Ejemplos;
 //Importar el scanner para poder usarlo
 import java.util.Scanner;
 

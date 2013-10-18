@@ -1,4 +1,4 @@
-package Primeros_proyectos;
+package Ejemplos;
 
 public class Operadores {
 
