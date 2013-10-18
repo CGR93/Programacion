@@ -15,8 +15,8 @@ public class Ejercicio3_2 {
 		//ir a la consola, poner la radio y pulsar el intro para ejecutarlo
 		//con numeros decimales poner , (4,5)
 		radio = teclado.nextFloat(); //esto es para escribir el radio de la cicunferencia
-		area = (Math.PI * radio); //para hacer el area
-		perimetro = (2 * Math.PI * Math.pow(radio, 2)); //para hacer el perimetro
+		area = (Math.PI * Math.pow(radio, 2)); //para hacer el area
+		perimetro = (2 * Math.PI * radio); //para hacer el perimetro
 		System.out.println("El perimetro es :"+ perimetro);
 		System.out.println("El area es :"+ area);
 		teclado.close(); //para finalizar el teclado y que no de aviso
