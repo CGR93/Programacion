@@ -16,7 +16,7 @@ public class Ejercicio3_3 {
 		//con numeros decimales poner , (4,5)
 		radio = teclado.nextInt(); //esto es para escribir el radio de la cicunferencia
 		volumen = (4 * Math.PI * Math.pow(radio,3)) / 3 ; // volumen de la circunferencia
-		System.out.println("El volumen es: "+ volumen);
+		System.out.println("El volumen es: "+ volumen);// Math.round() es para que no aparezcan decimales
 		
 		teclado.close(); //para finalizar el teclado y que no de aviso
 	}
