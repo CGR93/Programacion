@@ -2,7 +2,7 @@ package Actividades_del_Libro;
 
 import java.util.Scanner;
 
-public class Ejercicio1_objetos {
+public class Ejercicio1_objetos_1 {
 
 	public static void main(String[] args) {
 	String alumno1, alumno2, alumno3;
