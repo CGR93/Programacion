@@ -44,7 +44,7 @@ public class Ejercicios_de_la_pizarra {
         
         System.out.println("Ocho: El resultado es: " +(10%4+6/2) );
         
-        //(|4 - 20 / 3| )^3
+        //(|4 - 20 / 3| )^3   //Math.abs para hacer el valor absoluto
         
         System.out.println("Nueve: El resultado es: " +(Math.pow(Math.abs(4-20/3),3)));
         
