@@ -1,4 +1,4 @@
-package Ejemplos;
+package Ejemplos_objetos;
 
 public class Objetos_Principal {
 

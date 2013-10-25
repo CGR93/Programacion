@@ -1,4 +1,4 @@
-package Ejemplos;
+package Ejemplos_objetos;
 
 public class Alumno {
 	public String nombre;
