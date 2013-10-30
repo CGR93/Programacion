@@ -53,8 +53,8 @@ public class Coche {
        rueda2.draw();
        rueda2.fill();
        
-          for (int i=0; i<100; i++){
-    	   Thread.sleep(100 / 30);
+          for (int i=0; i<150; i++){
+           Thread.sleep(100 / 30);
     	   carroceria.translate(-3f, 0f);
     	   carroceria1.translate(-3f, 0f);
     	   rueda1.translate(-3f, 0f);
@@ -62,7 +62,9 @@ public class Coche {
     	   luz.translate(-3f, 0f);
     	   luz1.translate(-3f, 0f);
     	   ventana1.translate(-3f, 0f);
-    	   ventana.translate(-3f, 0f);   
+    	   ventana.translate(-3f, 0f); 
+    	      	      	   
+    	   
          }
 	}
 }

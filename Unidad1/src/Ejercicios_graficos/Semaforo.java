@@ -14,21 +14,21 @@ public class Semaforo {
 		Canvas.getInstance();
 		
 		Rectangle rectangulo = new Rectangle(50,25,100,450);
-		rectangulo.setColor(Color.GRAY);
+		rectangulo.setColor(Color.BLACK);
 		rectangulo.draw();
 		rectangulo.fill();
 		
-		Ellipse colorRojo = new Ellipse(80,50,100,100);
+		Ellipse colorRojo = new Ellipse(80,60,100,100);
 		colorRojo.setColor(Color.RED);
         colorRojo.fill();
                 
-        Ellipse colorNaranja = new Ellipse(80,170,100,100);
+        Ellipse colorNaranja = new Ellipse(80,180,100,100);
 		colorNaranja.setColor(Color.ORANGE);
         colorNaranja.fill();
         
-        Ellipse colorVerde = new Ellipse(80, 290, 100, 100);
+        Ellipse colorVerde = new Ellipse(80, 300, 100, 100);
         colorVerde.setColor(Color.GREEN);
-        colorVerde.fill();    		
-	}
+        colorVerde.fill();    
+        	}
 
 }
