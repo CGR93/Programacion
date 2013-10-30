@@ -64,7 +64,7 @@ public class Ejercicios_de_la_pizarra {
         
         System.out.println("Trece: El resultado es: " + (28/7)*2);
         
-        // (13 * 3 ) % 10
+        // (13 * 3 ) % 10 //% calcula el resto de la division.
         
         System.out.println("Catorce: El resultado es: " + (13*3)%10);
         
