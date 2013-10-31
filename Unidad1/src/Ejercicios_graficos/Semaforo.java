@@ -17,7 +17,7 @@ public class Semaforo {
 		rectangulo.setColor(Color.BLACK);
 		rectangulo.draw();
 		rectangulo.fill();
-		
+			
 		Ellipse colorRojo = new Ellipse(80,60,100,100);
 		colorRojo.setColor(Color.RED);
         colorRojo.fill();
