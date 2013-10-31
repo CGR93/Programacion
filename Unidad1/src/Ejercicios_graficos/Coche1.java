@@ -63,9 +63,11 @@ public class Coche1 {
 	    	   luz.translate(-3f, 0f);
 	    	   luz1.translate(-3f, 0f);
 	    	   ventana1.translate(-3f, 0f);
-	    	   ventana.translate(-3f, 0f); 
-	    	   
+	    	   ventana.translate(-3f, 0f);   		
+     	}
+  	}
 	       }
-	}
 
-}
+
+
+

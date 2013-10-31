@@ -5,7 +5,6 @@ import java.lang.ProcessBuilder.Redirect;
 import graphics.Canvas;
 import graphics.Color;
 import graphics.Ellipse;
-import graphics.Line;
 import graphics.Rectangle;
 
 public class Coche {
@@ -62,10 +61,8 @@ public class Coche {
     	   luz.translate(-3f, 0f);
     	   luz1.translate(-3f, 0f);
     	   ventana1.translate(-3f, 0f);
-    	   ventana.translate(-3f, 0f); 
-    	      	      	   
-    	   
-         }
+    	   ventana.translate(-3f, 0f);    	   
+    	   }
 	}
 }
 
